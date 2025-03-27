@@ -31,7 +31,7 @@ streamlit run app.py
 
 ## Deployment Notes
 
-Ensure the `.pkl` are in the root `data/` directory.
+Ensure the `.pkl` files are in the root `data/` directory.
 
 ## SHAP Analysis
 
