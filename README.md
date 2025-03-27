@@ -20,7 +20,7 @@ This project builds a machine learning-powered decision model to evaluate and re
 
 ## Running the Streamlit App
 
-https://fourthdown.streamlit.app/
+https://fourthdownmodel.streamlit.app/
 
 To launch the app locally:
 
