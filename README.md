@@ -39,4 +39,4 @@ A script in `analysis/` shows feature importance using SHAP to interpret the Go/
 
 ## Credits
 
-Created as part of a project for CMPT 419 on human-centered and data-centric AI. Inspired by the nflfastR dataset and existing fourth down decision tools.
+Final project for CMPT 419 on human-centered and data-centric AI. Inspired by the nflfastR dataset and existing fourth down decision tools.
