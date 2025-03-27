@@ -1,0 +1,8 @@
+data/
+nfl_bot_env/
+__pycache__/
+*.pyc
+report/
+
+*.log
+.DS_Store
