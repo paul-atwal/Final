@@ -1,4 +1,6 @@
-data/
+data/full_data.pkl
+data/2007_to_2024_nflfastR.csv.gz
+data/processed_data.csv
 nfl_bot_env/
 __pycache__/
 *.pyc
